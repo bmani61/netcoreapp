@@ -1,0 +1,2 @@
+# netcoreapp
+Learning dotnet core
